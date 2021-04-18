@@ -45,6 +45,6 @@
       ],
     "theme_color": "#90ee90",
     "background_color": "#b19cd9",
-    "start_url": "",
+    "start_url": "https://stark-garden-15853.herokuapp.com/",
     "display": "standalone"
 }
