@@ -2,9 +2,6 @@
 
 Hello, and welcome to my README! This is for my Week 19 Challenge, which was to refractor existing code for a Budget Tracket into a PWA. 
 
-![main page](https://drive.google.com/file/d/1m8YndScz7C3kKyT_6BjR3ye86ut5J7tP/view?usp=sharing)
-
-
 It was my job to ensure my Budget Tracker had the following features:
 
 - Include a service worker 
